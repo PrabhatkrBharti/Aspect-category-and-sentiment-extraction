@@ -1,5 +1,5 @@
-# MultiPEER: A Deep, Multi-Task Framework for Identifying Aspect Categories and Their Sentiments in Scientific Peer Reviews
-This repository contains dataset and code of the "MultiPEER: A Deep, Multi-Task Framework for Identifying Aspect Categories and Their Sentiments in Scientific Peer Reviews" Authors: Prabhat Kumar Bharti,  Mayank Agrawal, Asif Ekbal, Affiliation: Indian Institute of Technology, Patna, India
+# Identifying Aspect Categories and Their Sentiments in Scientific Peer Reviews
+This repository contains dataset and code of Identifying Aspect Categories and Their Sentiments in Scientific Peer Reviews
 
 
 ## Download the project source folder
